@@ -4,8 +4,8 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <div className={styles.container}>
-     
+    <div className="w-full h-screen bg-red-400">
+     ukfy
     </div>
   )
 }
